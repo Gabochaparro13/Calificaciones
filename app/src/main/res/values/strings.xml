@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calificaciones</string>
+    <string name="txt_app_examen">APLICACION EXAMEN \n</string>
+    <string name="txt_calificacion">CALIFICACION</string>
+    <string name="txt_nombre">GABRIEL HERNANDEZ CHAPARRO</string>
+    <string name="txt_resultado" />
+</resources>
